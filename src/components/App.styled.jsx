@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const AppContainer = styled.div`
 	background-image: linear-gradient(to top,
-		#FFFF00 50%, #4169E1 50%);
+	#4169E1 50%, #FFFF00 50%);
 	background-repeat: no-repeat;
 	background-size: cover;
 	box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
